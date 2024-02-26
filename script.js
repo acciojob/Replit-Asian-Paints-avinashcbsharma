@@ -35,7 +35,7 @@
       function resetGrid() {
         const gridItems = document.querySelectorAll(".grid-item");
         gridItems.forEach(item => {
-          item.style.backgroundColor = "transparent";
+          item.style.backgroundColor = "rgb(255, 0, 0)";
         });
       }
 
