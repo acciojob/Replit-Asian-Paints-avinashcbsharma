@@ -3,7 +3,7 @@
       const gridContainer = document.getElementById("grid-container");
       const blockIdInput = document.getElementById("block_id");
       const colorInput = document.getElementById("colour_id");
-      const changeButton = document.getElementById("change");
+      const changeButton = document.getElementById("change_button");
       const resetButton = document.getElementById("reset_button");
 
       // Create grid items
